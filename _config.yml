@@ -73,9 +73,7 @@ JB :
   archive_path: /blog.html
   categories_path : /categories.html
   tags_path : /tags.html
-  skills_path: /skills.html
-  experience_path: /experience.html
-  education_path: /education.html
+  cv_path: /cv.html
   
 
   # Settings for comments helper

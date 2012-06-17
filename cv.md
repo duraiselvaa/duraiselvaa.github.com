@@ -1,11 +1,47 @@
 ---
 layout: page
-title: Selva - Experience
+title: Selva - CV
 group: navigation
 ---
 {% include JB/setup %}
 
 
+## Summary
+
+Java Professional with 11 years of experience working on projects in Spatial Search, Banking, Insurance, Supply-Chain, Healthcare, Mobile Solutions and Payment Solutions domains. I have worked in different roles - as Designer, Developer and Analyst on large scale projects with long development cycles as well as in small "Agile/Scrum" environment.
+
+***
+<br>
+## Technical Skills
+<br>
+## Primary
+
+	Java				- 11 years
+	Spring Framework (2.5, 3.1)	- 4.5 years
+	REST API Development		- 2 years
+	Oracle	 			- 5 years
+	NoSQL - Neo4j			- 1 year
+	ElasticSearch Indexing Server	- 1 year
+
+<br>
+## Secondary
+
+	Hibernate, Apache Struts, Servlets, EJB, Castor, POI, REST Assured
+	JUnit, Mockito
+	Java Swings, JQuery, JSP, Javascript
+	XML, XSLT, JSON
+	MySQL, Documentum 5.x - WDK, DFC, Xindice, JDBC
+	Maven, Ant
+	Git, SVN, CVS, VSS, ClearCase
+	Eclipse, WSAD
+	Tomcat, JBoss, Weblogic
+	Cloud Computing - Amazon EC2, jClouds API
+	Windows, Linux - Ubuntu
+<br>
+***
+<br>
+## Experience
+<br>
 ### [GeoGrep](http://www.geogrep.com)
 Jul 2011 - till date
 <br>Senior Developer - Cloud based Spatial Search Engine
@@ -147,3 +183,28 @@ International Medical Education Credit Scheme (IMECS) for IMECS
 ```
 Tomcat, JSP, Servlets, Swings, JavaScript, Oracle, DHTML, Ant, VSS, Eclipse IDE
 ```
+
+***
+<br>
+## Education
+<br>
+
+## M.Sc - Masters in Computer Applications 
+Grade: 2:1
+<br>Bharathiyar University, INDIA (1997 - 2000)
+
+<br>
+## B.Sc - Physics
+Grade: 2:1
+<br>Bharathiyar University, INDIA (1994 - 1997)
+
+<br>
+## Certification
+- Sun Certified Java Programmer (SCJP) Standard Edition 5.0 (81%) - Taken in 2008
+
+<br>
+## Professional Training
+- JBoss Clustering training from BSG
+- TOGAF - IT Architect certification training from TATA Consultancy Services Limited
+- Project Leader iQMS, Soft Skills training from TATA Consultancy Services Limited
+- Documentum Developer training related to content management from Hewlett-Packard

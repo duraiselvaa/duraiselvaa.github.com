@@ -108,3 +108,4 @@ Solandra is a real-time distributed search engine built on Apache Solr and Apach
 * [Compass - Lucene based](http://compass-project.org/). The same author came up wih ElasticSearch
 * [Katta - Lucene based cluster](http://katta.sourceforge.net/)
 
+<br>

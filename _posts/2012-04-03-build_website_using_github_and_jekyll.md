@@ -95,7 +95,7 @@ delete all the contents of this file and replace with
 	% include JB/setup %}
 
 <br>
-##### d. rename 'Archive' to 'Blog'
+##### d. rename 'Archive' to 'Blog' (my preference)
 
 You can rename `Archive.html` to `blog.html` and edit its file contents to change the `title = Blog`
 

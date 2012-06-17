@@ -27,15 +27,15 @@ I was mostly rooted to 'Develop' Theatre with couple of visits to 'Strategy'
 
 
 
-## Interesting stuff!
+## Some Interesting stuff!
 
-- Photobox.com's Adam Gerrad says that for their archive storage, Cloud Storage is not economical. He says its like 'renting a car everyday'. Yes for his business where there are tonnes and tonnes of archived photos, they don't want to use cloud storage - use local inhouse. Makes sense. Yes I see the point. 
+- Photobox.com's Adam Gerrad argued that for their archive storage, Cloud Storage is not economical. He says its like 'renting a car everyday'. Yes for his business where there are tonnes and tonnes of archived photos, they don't want to use cloud storage for their archive - use local inhouse. Makes sense. Yes I see the point. 
 
 - Fireport's talk on "Whats Cloud Providers not telling you?" I think that topic name is catchy but talk was not all that related. Only valid point to take from is "Don't scale up but scale out". The guy gave some data to prove it.
 
-- Licensing. on the panel talk with CTOs, the guy from Elsevier stressed that companies should do their homework on licensing the technologies in cloud, otherwise cost are likely to add ...
+- Licensing. On a panel talk with CTOs, the guy from Elsevier stressed that companies should do their homework on licensing agreements for the technologies in cloud, otherwise cost are likely to add ...
 
-- One most useful was 'Monetisation of Saas", was very informative. To begin with companies could bank on their gut feeling to start the pricing/packages. But start gathering data on API usage. This is the vital step to begin with .. then Identify the pattern of usage, Segment the usage, Build and Test Pricing models. He stressed "Separate Business Model from Implementation" - meaning to change a price/packages don't go back to developers. 
+- One of the most useful was 'Monetisation of Saas". Was very informative. To begin with companies could bank on their gut feeling to start the pricing/packages. But should start gathering data on API usage. This is the vital step to begin with .. then Identify the pattern of usage, Segment the usage, Build and Test Pricing models. He stressed "Separate Business Model from Implementation" - meaning to change a price/packages don't go back to developers. 
 
 - Cloud Usage. Pay special attention to developers using cloud resource. Some instances may be left unattended. Some may spin instances in different zones compared to zones with reserved instances. Plan for minimal use. Use cloud for any load spikes.
 

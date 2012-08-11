@@ -6,7 +6,6 @@ title: Selva Duraisamy
 
 
 ## Hello There!
-Am seeking for work in a challenging environment as **Java-Spring Developer**. Have a look at my [CV](cv.html) and [GitHib Projects](https://github.com/duraiselvaa/)
 
 <br>
 ## About me

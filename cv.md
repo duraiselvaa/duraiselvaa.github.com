@@ -18,10 +18,10 @@ Java Professional with 11 years of experience working on projects in Spatial Sea
 
 	Java				- 11 years
 	Spring Framework (2.5, 3.1)	- 4.5 years
+	Hibernate 			- 5 years
 	REST API Development		- 2 years
 	Oracle	 			- 5 years
-	NoSQL - Neo4j			- 1 year
-	ElasticSearch Indexing Server	- 1 year
+	NoSQL 				- 1 year
 
 <br>
 ## Secondary
@@ -52,7 +52,7 @@ Jul 2011 - till date
 - Worked in all the layers including the web, REST web services, Security writing Integration tests
 
 
-`Spring 3.1, Neo4j, ElasticSearch Indexing Server, REST API, Spring Data for Neo4j, JQuery, JSON, JUnit, Mockito, Maven, Eclipse, Jenkins & Continuous Integration, Tomcat, GitHub`
+`Spring 3.1, NoSQL, Lucene, REST API, Hibernate, JQuery, JSON, JUnit, Mockito, Maven, Eclipse, Jenkins & Continuous Integration, Tomcat, GitHub`
 
 
 ## [Unibet](http://www.unibet.com)
